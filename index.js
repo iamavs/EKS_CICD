@@ -5,7 +5,7 @@ const config = require('config')
 console.log(config);
 
 app.get('/', (req, res) => {
-  res.send('Hello World!-CodeBuilkd----added policyy')
+  res.send('Hello World!-CodeBuilkd----added policy')
 })
 
 app.get('/status', (req, res) => {
